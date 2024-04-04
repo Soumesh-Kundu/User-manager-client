@@ -128,7 +128,7 @@ export default function ModalForm() {
                     <FormItem>
                       <FormLabel>Hobbies</FormLabel>
                       <FormDescription>
-                        Hobbies should be seperated by "&#44;"s
+                        Hobbies should be seperated by &quot;&#44;&quot;s
                       </FormDescription>
                       <FormControl>
                         <Input type="text" {...field} />
